@@ -20,7 +20,9 @@ then provide following detain once asked by programme
 enter your fasta sequence: 
 
 enter main output file name without hypothetical proteine : 
+
 enter output file name with hypothetical proteine :
+
 give the destination folder or pathe to copy file :
 
 contact: arc.umar@gmail.com
